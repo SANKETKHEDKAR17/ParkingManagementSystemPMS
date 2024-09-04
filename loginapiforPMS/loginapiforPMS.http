@@ -1,0 +1,6 @@
+@loginapiforPMS_HostAddress = http://localhost:5029
+
+GET {{loginapiforPMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

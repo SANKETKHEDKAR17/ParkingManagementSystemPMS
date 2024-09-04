@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\bin\Debug\net8.0\LoginApi.Infrastructure.deps.json
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\bin\Debug\net8.0\LoginApi.Infrastructure.dll
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\bin\Debug\net8.0\LoginApi.Infrastructure.pdb
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.sourcelink.json
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.dll
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\refint\LoginApi.Infrastructure.dll
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\LoginApi.Infrastructure.pdb
+C:\Users\ADMIN\source\repos\loginapiforPMS\LoginApi.Infrastructure\obj\Debug\net8.0\ref\LoginApi.Infrastructure.dll

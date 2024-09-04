@@ -1,0 +1,755 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.core\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|solutionrelative:loginapi.core\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.core\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|solutionrelative:loginapi.core\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|solutionrelative:loginapi.core\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\controllers\\parkingspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\controllers\\parkingspacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\loginapi.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\loginapi.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\loginapi.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\loginapi.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.core\\loginapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|solutionrelative:loginapi.core\\loginapi.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132BFBAC-5301-4D81-AFFB-6A5A0A7F073F}|Db_OPs{132BFBAC-5301-4D81-AFFB-6A5A0A7F073F}|C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\SqlQuery_2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{132BFBAC-5301-4D81-AFFB-6A5A0A7F073F}|Db_OPs{132BFBAC-5301-4D81-AFFB-6A5A0A7F073F}|solutionrelative:SqlQuery_2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\loginapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\loginapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\SANKETKHEDKAR17\\loginapiforPMS\\loginapiforPMS\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\parkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\parkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\iparkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\iparkingspacerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\ireservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\ireservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\feedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.core\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|solutionrelative:loginapi.core\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\parkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\parkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.service\\iparkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AF62A83-3682-4026-8144-E4701319D60D}|LoginAPI.Service\\LoginAPI.Service.csproj|solutionrelative:loginapi.service\\iparkingspaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.repository\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8B0B3A7-7C9D-4FBA-9CCC-176FDE0A0A09}|LoginAPI.Repository\\LoginAPI.Repository.csproj|solutionrelative:loginapi.repository\\ifeedbackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.application\\loginapi.application.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9AAC22A5-2A5E-4A02-AC0C-BFD0B6A4A38C}|LoginApi.Application\\LoginApi.Application.csproj|solutionrelative:loginapi.application\\loginapi.application.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CACFAE-B8C2-4CB2-8D31-B10D40DD164E}|LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.infrastructure\\loginapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CACFAE-B8C2-4CB2-8D31-B10D40DD164E}|LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj|solutionrelative:loginapi.infrastructure\\loginapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CACFAE-B8C2-4CB2-8D31-B10D40DD164E}|LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.infrastructure\\loginapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3CACFAE-B8C2-4CB2-8D31-B10D40DD164E}|LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj|solutionrelative:loginapi.infrastructure\\loginapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\9bfb3b9006f16ad10fae4edec2fd8ce0eaf536db80750f28aae7a89e8a1fa8d5\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\.nuget\\packages\\dapper\\2.1.35\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\obj\\Debug\\net8.0\\LoginAPI.Core.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginAPI.Core\\obj\\Debug\\net8.0\\LoginAPI.Core.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|c:\\users\\admin\\source\\repos\\loginapiforpms\\loginapi.core\\parkingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296768A1-3C74-4CD6-B7AF-42620B236821}|LoginAPI.Core\\LoginAPI.Core.csproj|solutionrelative:loginapi.core\\parkingspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IPaymentService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\IPaymentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:51:17.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\PaymentService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\PaymentService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:50:51.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IPaymentRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:50:26.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\PaymentRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:49:36.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Payment.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Core\\Payment.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Payment.cs",
+              "RelativeToolTip": "LoginAPI.Core\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:49:10.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "LoginApi.Application\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "LoginApi.Application\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAzwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:48:41.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SANKETKHEDKAR17\\loginapiforPMS\\loginapiforPMS\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\SANKETKHEDKAR17\\loginapiforPMS\\loginapiforPMS\\Class1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SANKETKHEDKAR17\\loginapiforPMS\\loginapiforPMS\\Class1.cs",
+              "RelativeToolTip": "..\\SANKETKHEDKAR17\\loginapiforPMS\\loginapiforPMS\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:02:43.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SqlQuery_2.sql",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\SqlQuery_2.sql",
+              "RelativeDocumentMoniker": "SqlQuery_2.sql",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\SqlQuery_2.sql",
+              "RelativeToolTip": "SqlQuery_2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-03T03:00:13.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "LoginApi.Application\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "LoginApi.Application\\Controllers\\ReservationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:31:21.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IReservationService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IReservationService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\IReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:26:45.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\ReservationService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\ReservationService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\ReservationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:26:12.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IReservation.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IReservation.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\IReservation.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IReservation.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\IReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:22:04.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\ReservationRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\ReservationRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:19:51.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Reservation.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Core\\Reservation.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Reservation.cs",
+              "RelativeToolTip": "LoginAPI.Core\\Reservation.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:17:40.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ParkingSpaceController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\ParkingSpaceController.cs",
+              "RelativeDocumentMoniker": "LoginApi.Application\\Controllers\\ParkingSpaceController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\ParkingSpaceController.cs",
+              "RelativeToolTip": "LoginApi.Application\\Controllers\\ParkingSpaceController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:56:09.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IParkingSpaceService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IParkingSpaceService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\IParkingSpaceService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IParkingSpaceService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\IParkingSpaceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:54:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ParkingSpaceService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\ParkingSpaceService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\ParkingSpaceService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\ParkingSpaceService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\ParkingSpaceService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:52:01.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ParkingSpaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\ParkingSpaceRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\ParkingSpaceRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\ParkingSpaceRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\ParkingSpaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:40:27.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IParkingSpaceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IParkingSpaceRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\IParkingSpaceRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IParkingSpaceRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\IParkingSpaceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:39:32.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ParkingSpace.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\ParkingSpace.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Core\\ParkingSpace.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\ParkingSpace.cs",
+              "RelativeToolTip": "LoginAPI.Core\\ParkingSpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:38:37.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginApi.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\LoginApi.Application.csproj",
+              "RelativeDocumentMoniker": "LoginApi.Application\\LoginApi.Application.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\LoginApi.Application.csproj",
+              "RelativeToolTip": "LoginApi.Application\\LoginApi.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T15:43:39.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExceptionDispatchInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\83ca34cb13bbd5a50ea5bb752efe71db81c206cb5782a71e948bca9281f88b83\\ExceptionDispatchInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T16:53:03.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FeedBackController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\FeedBackController.cs",
+              "RelativeDocumentMoniker": "LoginApi.Application\\Controllers\\FeedBackController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\FeedBackController.cs",
+              "RelativeToolTip": "LoginApi.Application\\Controllers\\FeedBackController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:03:04.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\IFeedbackService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IFeedbackService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\IFeedbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T15:00:21.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\FeedbackService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\FeedbackService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:59:25.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\FeedbackRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\FeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\FeedbackRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\FeedbackRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:55:09.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IFeedbackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IFeedbackRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\IFeedbackRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IFeedbackRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\IFeedbackRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:54:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Feedback.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Core\\Feedback.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Feedback.cs",
+              "RelativeToolTip": "LoginAPI.Core\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:45:48.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginAPI.Core.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\obj\\Debug\\net8.0\\LoginAPI.Core.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Core\\obj\\Debug\\net8.0\\LoginAPI.Core.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\obj\\Debug\\net8.0\\LoginAPI.Core.AssemblyInfo.cs",
+              "RelativeToolTip": "LoginAPI.Core\\obj\\Debug\\net8.0\\LoginAPI.Core.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T15:27:12.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\JwtTokenService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\JwtTokenService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:44:56.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LoginApi.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj",
+              "RelativeToolTip": "LoginApi.Infrastructure\\LoginApi.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T12:31:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "WebApplicationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\9bfb3b9006f16ad10fae4edec2fd8ce0eaf536db80750f28aae7a89e8a1fa8d5\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\9bfb3b9006f16ad10fae4edec2fd8ce0eaf536db80750f28aae7a89e8a1fa8d5\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Local\\SourceServer\\9bfb3b9006f16ad10fae4edec2fd8ce0eaf536db80750f28aae7a89e8a1fa8d5\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\9bfb3b9006f16ad10fae4edec2fd8ce0eaf536db80750f28aae7a89e8a1fa8d5\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ViewState": "AQIAAHEBAAAAAAAAAAAawH0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:25:02.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginAPI.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\LoginAPI.Repository.csproj",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\LoginAPI.Repository.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\LoginAPI.Repository.csproj",
+              "RelativeToolTip": "LoginAPI.Repository\\LoginAPI.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T04:53:29.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginAPI.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\LoginAPI.Service.csproj",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\LoginAPI.Service.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\LoginAPI.Service.csproj",
+              "RelativeToolTip": "LoginAPI.Service\\LoginAPI.Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T03:43:02.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginApi.Application.http",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\LoginApi.Application.http",
+              "RelativeDocumentMoniker": "LoginApi.Application\\LoginApi.Application.http",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\LoginApi.Application.http",
+              "RelativeToolTip": "LoginApi.Application\\LoginApi.Application.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-16T03:38:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Infrastructure\\LoginAPIDbContext.cs",
+              "RelativeDocumentMoniker": "LoginApi.Infrastructure\\LoginAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Infrastructure\\LoginAPIDbContext.cs",
+              "RelativeToolTip": "LoginApi.Infrastructure\\LoginAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T03:37:53.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\.nuget\\packages\\dapper\\2.1.35\\readme.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\dapper\\2.1.35\\readme.md",
+              "ToolTip": "C:\\Users\\ADMIN\\.nuget\\packages\\dapper\\2.1.35\\readme.md",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\dapper\\2.1.35\\readme.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-16T03:03:09.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginAPI.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\LoginAPI.Core.csproj",
+              "RelativeDocumentMoniker": "LoginAPI.Core\\LoginAPI.Core.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\LoginAPI.Core.csproj",
+              "RelativeToolTip": "LoginAPI.Core\\LoginAPI.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T15:21:52.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginApi.Application\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginApi.Application\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:09:37.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\IUserService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:03:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\UserRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\UserRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:00:01.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginApi.Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\appsettings.json",
+              "RelativeToolTip": "LoginApi.Application\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T14:49:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Program.cs",
+              "RelativeDocumentMoniker": "LoginApi.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginApi.Application\\Program.cs",
+              "RelativeToolTip": "LoginApi.Application\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:42:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Users.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Core\\Users.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Core\\Users.cs",
+              "RelativeToolTip": "LoginAPI.Core\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:40:11.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Service\\UserService.cs",
+              "RelativeToolTip": "LoginAPI.Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:38:11.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LoginAPI.Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\loginapiforPMS\\LoginAPI.Repository\\IUserRepository.cs",
+              "RelativeToolTip": "LoginAPI.Repository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:37:38.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

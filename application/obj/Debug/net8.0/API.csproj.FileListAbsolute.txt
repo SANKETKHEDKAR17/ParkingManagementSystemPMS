@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\loginapiforPMS\application\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\loginapiforPMS\application\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\loginapiforPMS\application\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\loginapiforPMS\application\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\loginapiforPMS\application\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\loginapiforPMS\application\obj\Debug\net8.0\API.sourcelink.json
